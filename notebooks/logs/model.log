@@ -1,0 +1,213 @@
+2025-02-08 20:55:20.263 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:55:20.262987 to 2025-02-08 20:55:20.263025
+2025-02-08 20:55:20.263 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:55:20.262987 to 2025-02-08 20:55:20.263025
+2025-02-08 20:55:21.486 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:55:21.486 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:55:21.526 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:55:21.526 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:55:22.113 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:55:22.113 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:55:22.422 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:55:22.422 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:55:22.710 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:55:22.710 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:55:31.579 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:55:31.579 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:55:32.007 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:55:32.007 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:55:32.317 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:55:32.317 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:56:53.440 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:56:53.440402 to 2025-02-08 20:56:53.440440
+2025-02-08 20:56:53.440 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:56:53.440402 to 2025-02-08 20:56:53.440440
+2025-02-08 20:56:53.440 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:56:53.440402 to 2025-02-08 20:56:53.440440
+2025-02-08 20:56:53.440 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:56:53.440402 to 2025-02-08 20:56:53.440440
+2025-02-08 20:56:54.133 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:56:54.133 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:56:54.133 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:56:54.133 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:56:54.166 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:56:54.166 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:56:54.166 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:56:54.166 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:56:54.757 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:56:54.757 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:56:54.757 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:56:54.757 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:56:55.064 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:56:55.064 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:56:55.064 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:56:55.064 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:56:55.363 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:56:55.363 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:56:55.363 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:56:55.363 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:57:02.057 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:57:02.057 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:57:02.057 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:57:02.057 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:57:02.402 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:57:02.402 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:57:02.402 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:57:02.402 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:57:02.643 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:57:02.643 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:57:02.643 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:57:02.643 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:58:27.584 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:27.584491 to 2025-02-08 20:58:27.584520
+2025-02-08 20:58:27.584 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:27.584491 to 2025-02-08 20:58:27.584520
+2025-02-08 20:58:27.584 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:27.584491 to 2025-02-08 20:58:27.584520
+2025-02-08 20:58:27.584 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:27.584491 to 2025-02-08 20:58:27.584520
+2025-02-08 20:58:27.584 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:27.584491 to 2025-02-08 20:58:27.584520
+2025-02-08 20:58:27.584 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:27.584491 to 2025-02-08 20:58:27.584520
+2025-02-08 20:58:28.277 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:28.277 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:28.277 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:28.277 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:28.277 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:28.277 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:28.315 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:28.315 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:28.315 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:28.315 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:28.315 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:28.315 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:29.200 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:29.200 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:29.200 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:29.200 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:29.200 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:29.200 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:29.604 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:29.604 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:29.604 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:29.604 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:29.604 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:29.604 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:29.962 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:29.962 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:29.962 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:29.962 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:29.962 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:29.962 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:37.746 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:58:37.746 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:58:37.746 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:58:37.746 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:58:37.746 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:58:37.746 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:58:38.147 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:58:38.147 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:58:38.147 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:58:38.147 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:58:38.147 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:58:38.147 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:58:38.405 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:58:38.405 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:58:38.405 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:58:38.405 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:58:38.405 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:58:38.405 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:58:50.051 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:50.051247 to 2025-02-08 20:58:50.051265
+2025-02-08 20:58:50.051 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:50.051247 to 2025-02-08 20:58:50.051265
+2025-02-08 20:58:50.051 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:50.051247 to 2025-02-08 20:58:50.051265
+2025-02-08 20:58:50.051 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:50.051247 to 2025-02-08 20:58:50.051265
+2025-02-08 20:58:50.051 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:50.051247 to 2025-02-08 20:58:50.051265
+2025-02-08 20:58:50.051 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:50.051247 to 2025-02-08 20:58:50.051265
+2025-02-08 20:58:50.051 | INFO     | __main__:load_data:11 - Loading data for PFE from 2019-08-19 20:58:50.051247 to 2025-02-08 20:58:50.051265
+2025-02-08 20:58:50.696 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:50.696 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:50.696 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:50.696 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:50.696 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:50.696 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:50.696 | INFO     | __main__:load_data:21 - Data loaded successfully with shape (1362, 12)
+2025-02-08 20:58:50.747 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:50.747 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:50.747 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:50.747 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:50.747 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:50.747 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:50.747 | INFO     | __main__:prepare_train_val_test_split:32 - Data split: Train 817, Val 332, Test 333
+2025-02-08 20:58:51.742 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:51.742 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:51.742 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:51.742 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:51.742 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:51.742 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:51.742 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (783, 18)
+2025-02-08 20:58:52.531 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:52.531 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:52.531 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:52.531 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:52.531 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:52.531 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:52.531 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (298, 18)
+2025-02-08 20:58:53.104 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:53.104 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:53.104 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:53.104 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:53.104 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:53.104 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:58:53.104 | INFO     | __main__:create_features:60 - Feature engineering complete. New shape: (299, 18)
+2025-02-08 20:59:01.007 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:59:01.007 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:59:01.007 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:59:01.007 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:59:01.007 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:59:01.007 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:59:01.007 | INFO     | __main__:create_sequences:87 - Generated 723 sequences from data shape (783, 15)
+2025-02-08 20:59:01.496 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:59:01.496 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:59:01.496 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:59:01.496 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:59:01.496 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:59:01.496 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:59:01.496 | INFO     | __main__:create_sequences:87 - Generated 238 sequences from data shape (298, 15)
+2025-02-08 20:59:01.866 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:59:01.866 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:59:01.866 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:59:01.866 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:59:01.866 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:59:01.866 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 20:59:01.866 | INFO     | __main__:create_sequences:87 - Generated 239 sequences from data shape (299, 15)
+2025-02-08 21:01:39.696 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:01:39.696 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:05.765 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:05.765 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:06.701 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 2.0977608362833657, 'MSE': 5.863973539389513, 'RMSE': 2.4215642752959323, 'R2': -0.6787267332831806}
+2025-02-08 21:02:06.701 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 2.0977608362833657, 'MSE': 5.863973539389513, 'RMSE': 2.4215642752959323, 'R2': -0.6787267332831806}
+2025-02-08 21:02:07.145 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:07.145 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:07.145 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:26.012 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:26.012 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:26.012 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:26.804 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 8.213911385006375, 'MSE': 92.09117923863319, 'RMSE': 9.596414915927364, 'R2': -2.9117299997472226}
+2025-02-08 21:02:26.804 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 8.213911385006375, 'MSE': 92.09117923863319, 'RMSE': 9.596414915927364, 'R2': -2.9117299997472226}
+2025-02-08 21:02:26.804 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 8.213911385006375, 'MSE': 92.09117923863319, 'RMSE': 9.596414915927364, 'R2': -2.9117299997472226}
+2025-02-08 21:02:26.889 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:26.889 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:26.889 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:26.889 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:53.691 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:53.691 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:53.691 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:53.691 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:02:54.782 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 1.0620564142862956, 'MSE': 1.8510389893416788, 'RMSE': 1.3605289373407972, 'R2': 0.7229603453260041}
+2025-02-08 21:02:54.782 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 1.0620564142862956, 'MSE': 1.8510389893416788, 'RMSE': 1.3605289373407972, 'R2': 0.7229603453260041}
+2025-02-08 21:02:54.782 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 1.0620564142862956, 'MSE': 1.8510389893416788, 'RMSE': 1.3605289373407972, 'R2': 0.7229603453260041}
+2025-02-08 21:02:54.782 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 1.0620564142862956, 'MSE': 1.8510389893416788, 'RMSE': 1.3605289373407972, 'R2': 0.7229603453260041}
+2025-02-08 21:02:55.083 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:55.083 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:55.083 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:55.083 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:02:55.083 | INFO     | __main__:build_model:15 - LSTM model built successfully.
+2025-02-08 21:03:56.158 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:03:56.158 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:03:56.158 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:03:56.158 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:03:56.158 | INFO     | __main__:train:33 - Training complete.
+2025-02-08 21:03:57.100 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 0.9941338495230575, 'MSE': 1.3318312813554947, 'RMSE': 1.1540499475133192, 'R2': 0.2832681226184727}
+2025-02-08 21:03:57.100 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 0.9941338495230575, 'MSE': 1.3318312813554947, 'RMSE': 1.1540499475133192, 'R2': 0.2832681226184727}
+2025-02-08 21:03:57.100 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 0.9941338495230575, 'MSE': 1.3318312813554947, 'RMSE': 1.1540499475133192, 'R2': 0.2832681226184727}
+2025-02-08 21:03:57.100 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 0.9941338495230575, 'MSE': 1.3318312813554947, 'RMSE': 1.1540499475133192, 'R2': 0.2832681226184727}
+2025-02-08 21:03:57.100 | INFO     | __main__:evaluate:46 - Evaluation metrics: {'MAE': 0.9941338495230575, 'MSE': 1.3318312813554947, 'RMSE': 1.1540499475133192, 'R2': 0.2832681226184727}

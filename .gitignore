@@ -2,10 +2,4 @@
 
 /.venv
 
-/notebooks
-
 /src/__pycache__
-
-/src/logs
-
-/src/models

@@ -13,8 +13,8 @@ The presentation PDF file shows the steps taken and the modeling approach.
 
 Clone the repository
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/mertcan79/dataguess-task/tree/main
+cd dataguess-task
 ```
 Create and activate a virtual environment
 ```bash

@@ -2,10 +2,9 @@ data:
   sequence_length: 60
   val_size: 0.2
   train_size: 0.6
-  test_size: 0.2  # Explicitly define test set size
+  test_size: 0.2  
   history_days: 2000
   stock_symbol: "PFE"
-  num_features: 10  # Placeholder, update based on actual features
 
 feature_engineering:
   trend_windows: [10, 20, 50, 200]
@@ -43,5 +42,5 @@ model:
       factor: 0.5
       patience: 5
   optimization:
-    loss_function: "mse"  # Explicitly define loss function
+    loss_function: "mse"  
     optimizer: "adam"

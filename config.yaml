@@ -1,0 +1,47 @@
+data:
+  sequence_length: 60
+  val_size: 0.2
+  train_size: 0.6
+  test_size: 0.2  # Explicitly define test set size
+  history_days: 2000
+  stock_symbol: "PFE"
+  num_features: 10  # Placeholder, update based on actual features
+
+feature_engineering:
+  trend_windows: [10, 20, 50, 200]
+  volatility_window: 21
+  outlier_threshold: 3.0
+  momentum:
+    lookback_periods: [7, 14, 21]
+    rsi_period: 14
+    macd_periods: [12, 26, 9]
+    stoch_period: 14
+  volatility:
+    bb_period: 20
+    bb_std: 2
+    atr_period: 14
+  volume:
+    obv_ma_periods: [20, 50]
+    vwap_period: 21
+  trend:
+    adx_period: 14
+    aroon_period: 25
+    cci_period: 20
+
+model:
+  lstm:
+    units: [128, 64, 32]
+    dropout_rates: [0.2, 0.2, 0.2]
+  training:
+    batch_size: 32
+    epochs: 50
+    learning_rate: 0.001
+    early_stopping:
+      patience: 10
+      min_delta: 0.0001
+    reduce_lr:
+      factor: 0.5
+      patience: 5
+  optimization:
+    loss_function: "mse"  # Explicitly define loss function
+    optimizer: "adam"

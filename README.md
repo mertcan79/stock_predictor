@@ -2,12 +2,12 @@
 
 ## Overview
 
-This project contains a stock price prediction model using an LSTM model. 
-The model loads historical stock data, creates and extracts features, and predicts future prices. 
-A jupyter notebook in the notebooks folder contains EDA and modeling steps. 
-In src folder, main.py can be executed to run the model and output results based on the config.yaml file. 
-The logs, visuals and the model file can be found in their folders. 
-The presentation PDF file shows the steps taken and the modeling approach.
+- This project contains a stock price prediction model using an LSTM model. 
+- The model loads historical stock data, creates and extracts features, and predicts future prices. 
+- A jupyter notebook in the notebooks folder contains EDA and modeling steps. 
+- In src folder, main.py can be executed to run the model and output results based on the config.yaml file. 
+- The logs, visuals and the model file can be found in their folders. 
+- The presentation file shows the steps taken and the modeling approach.
 
 ## Installation
 

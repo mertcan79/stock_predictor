@@ -8,9 +8,12 @@ from tensorflow.keras.callbacks import EarlyStopping, ModelCheckpoint
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import TimeSeriesSplit
 from loguru import logger
-import yaml
+plt.style.use('Solarize_Light2')
 
 class LSTMModel:
+    """
+    LSTM model for time series forecasting.
+    """
     def __init__(self, config: dict):
         self.config = config
         self.model = None
@@ -86,5 +89,5 @@ class LSTMModel:
                 plt.close()
             fold += 1
         avg_metrics = {key: np.mean([m[key] for m in metrics_list]) for key in metrics_list[0]}
-        print("TimeSeries CV Average Metrics:", avg_metrics)
+        self.logger.info(f"imeSeries CV Average Metrics:{avg_metrics}")
         return avg_metrics

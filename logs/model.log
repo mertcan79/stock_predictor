@@ -1,0 +1,379 @@
+2025-02-08 23:13:32.020 | INFO     | lstm_model:build_model:44 - LSTM model built successfully.
+2025-02-08 23:13:32.020 | INFO     | lstm_model:build_model:44 - LSTM model built successfully.
+2025-02-08 23:13:52.106 | INFO     | lstm_model:train:77 - Training complete.
+2025-02-08 23:13:52.106 | INFO     | lstm_model:train:77 - Training complete.
+2025-02-08 23:13:53.192 | INFO     | lstm_model:evaluate:95 - Evaluation metrics: {'MAE': 1.0086831516689725, 'MSE': 1.5372974917900744, 'RMSE': 1.2398780148829458, 'R2': 0.5599056994354679}
+2025-02-08 23:13:53.192 | INFO     | lstm_model:evaluate:95 - Evaluation metrics: {'MAE': 1.0086831516689725, 'MSE': 1.5372974917900744, 'RMSE': 1.2398780148829458, 'R2': 0.5599056994354679}
+2025-02-08 23:15:44.089 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:15:44.089 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:16:23.443 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:16:23.443 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:16:50.158 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:16:50.158 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:16:50.951 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 0.8350708961486817, 'MSE': 1.2991412592201514, 'RMSE': 1.1397987801450533, 'R2': 0.6280845031199972}
+2025-02-08 23:16:50.951 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 0.8350708961486817, 'MSE': 1.2991412592201514, 'RMSE': 1.1397987801450533, 'R2': 0.6280845031199972}
+2025-02-08 23:16:51.523 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:16:51.523 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:16:51.523 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:17:12.537 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:17:12.537 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:17:12.537 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:17:13.305 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 3.8788672129313153, 'MSE': 21.519507152556454, 'RMSE': 4.638912281187957, 'R2': 0.08592224800063608}
+2025-02-08 23:17:13.305 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 3.8788672129313153, 'MSE': 21.519507152556454, 'RMSE': 4.638912281187957, 'R2': 0.08592224800063608}
+2025-02-08 23:17:13.305 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 3.8788672129313153, 'MSE': 21.519507152556454, 'RMSE': 4.638912281187957, 'R2': 0.08592224800063608}
+2025-02-08 23:17:13.371 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:17:13.371 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:17:13.371 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:17:13.371 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:18:06.494 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:06.494 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:06.494 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:06.494 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:07.282 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.0758530298868816, 'MSE': 1.8102840920395262, 'RMSE': 1.3454679825397282, 'R2': 0.7290599395819435}
+2025-02-08 23:18:07.282 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.0758530298868816, 'MSE': 1.8102840920395262, 'RMSE': 1.3454679825397282, 'R2': 0.7290599395819435}
+2025-02-08 23:18:07.282 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.0758530298868816, 'MSE': 1.8102840920395262, 'RMSE': 1.3454679825397282, 'R2': 0.7290599395819435}
+2025-02-08 23:18:07.282 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.0758530298868816, 'MSE': 1.8102840920395262, 'RMSE': 1.3454679825397282, 'R2': 0.7290599395819435}
+2025-02-08 23:18:07.353 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:18:07.353 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:18:07.353 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:18:07.353 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:18:07.353 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:18:35.518 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:35.518 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:35.518 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:35.518 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:35.518 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:18:36.435 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 3.8497356590366762, 'MSE': 15.511947828761405, 'RMSE': 3.9385210204798202, 'R2': -7.347831734164506}
+2025-02-08 23:18:36.435 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 3.8497356590366762, 'MSE': 15.511947828761405, 'RMSE': 3.9385210204798202, 'R2': -7.347831734164506}
+2025-02-08 23:18:36.435 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 3.8497356590366762, 'MSE': 15.511947828761405, 'RMSE': 3.9385210204798202, 'R2': -7.347831734164506}
+2025-02-08 23:18:36.435 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 3.8497356590366762, 'MSE': 15.511947828761405, 'RMSE': 3.9385210204798202, 'R2': -7.347831734164506}
+2025-02-08 23:18:36.435 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 3.8497356590366762, 'MSE': 15.511947828761405, 'RMSE': 3.9385210204798202, 'R2': -7.347831734164506}
+2025-02-08 23:28:14.705 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:28:14.705 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:28:44.733 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:28:44.733 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:28:45.355 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.6605348163180882, 'MSE': 4.1269376692926825, 'RMSE': 2.0314865663579176, 'R2': -0.18145245740846816}
+2025-02-08 23:28:45.355 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.6605348163180882, 'MSE': 4.1269376692926825, 'RMSE': 2.0314865663579176, 'R2': -0.18145245740846816}
+2025-02-08 23:28:46.329 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:28:46.329 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:28:46.329 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:07.708 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:29:07.708 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:29:07.708 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:29:08.616 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 6.185615793863932, 'MSE': 46.00644289054572, 'RMSE': 6.782804942687481, 'R2': -0.9542021751608822}
+2025-02-08 23:29:08.616 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 6.185615793863932, 'MSE': 46.00644289054572, 'RMSE': 6.782804942687481, 'R2': -0.9542021751608822}
+2025-02-08 23:29:08.616 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 6.185615793863932, 'MSE': 46.00644289054572, 'RMSE': 6.782804942687481, 'R2': -0.9542021751608822}
+2025-02-08 23:29:08.801 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:08.801 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:08.801 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:08.801 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:50.988 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:29:50.988 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:29:50.988 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:29:50.988 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:29:51.900 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.2515686459011501, 'MSE': 2.365657331315581, 'RMSE': 1.5380693519199908, 'R2': 0.645938849110147}
+2025-02-08 23:29:51.900 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.2515686459011501, 'MSE': 2.365657331315581, 'RMSE': 1.5380693519199908, 'R2': 0.645938849110147}
+2025-02-08 23:29:51.900 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.2515686459011501, 'MSE': 2.365657331315581, 'RMSE': 1.5380693519199908, 'R2': 0.645938849110147}
+2025-02-08 23:29:51.900 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 1.2515686459011501, 'MSE': 2.365657331315581, 'RMSE': 1.5380693519199908, 'R2': 0.645938849110147}
+2025-02-08 23:29:51.980 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:51.980 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:51.980 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:51.980 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:29:51.980 | INFO     | lstm_model:build_model:46 - LSTM model built successfully.
+2025-02-08 23:30:38.968 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:30:38.968 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:30:38.968 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:30:38.968 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:30:38.968 | INFO     | lstm_model:train:79 - Training complete.
+2025-02-08 23:30:39.950 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 2.1659508150491753, 'MSE': 5.436922438359095, 'RMSE': 2.331720917768483, 'R2': -1.9259075812193034}
+2025-02-08 23:30:39.950 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 2.1659508150491753, 'MSE': 5.436922438359095, 'RMSE': 2.331720917768483, 'R2': -1.9259075812193034}
+2025-02-08 23:30:39.950 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 2.1659508150491753, 'MSE': 5.436922438359095, 'RMSE': 2.331720917768483, 'R2': -1.9259075812193034}
+2025-02-08 23:30:39.950 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 2.1659508150491753, 'MSE': 5.436922438359095, 'RMSE': 2.331720917768483, 'R2': -1.9259075812193034}
+2025-02-08 23:30:39.950 | INFO     | lstm_model:evaluate:97 - Evaluation metrics: {'MAE': 2.1659508150491753, 'MSE': 5.436922438359095, 'RMSE': 2.331720917768483, 'R2': -1.9259075812193034}
+2025-02-08 23:33:53.738 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:33:53.738 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:34:26.707 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:34:26.707 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:34:27.460 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 2.179325474633111, 'MSE': 6.212599864231116, 'RMSE': 2.4925087490781483, 'R2': -0.778529381097715}
+2025-02-08 23:34:27.460 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 2.179325474633111, 'MSE': 6.212599864231116, 'RMSE': 2.4925087490781483, 'R2': -0.778529381097715}
+2025-02-08 23:34:27.995 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:34:27.995 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:34:27.995 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:34:43.154 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:34:43.154 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:34:43.154 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:34:43.792 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 6.687963316175673, 'MSE': 59.54660305588162, 'RMSE': 7.716644546425708, 'R2': -1.529343704159941}
+2025-02-08 23:34:43.792 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 6.687963316175673, 'MSE': 59.54660305588162, 'RMSE': 7.716644546425708, 'R2': -1.529343704159941}
+2025-02-08 23:34:43.792 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 6.687963316175673, 'MSE': 59.54660305588162, 'RMSE': 7.716644546425708, 'R2': -1.529343704159941}
+2025-02-08 23:34:43.853 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:34:43.853 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:34:43.853 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:34:43.853 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:35:11.540 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:35:11.540 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:35:11.540 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:35:11.540 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:35:12.369 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1181828816731771, 'MSE': 1.827645204085598, 'RMSE': 1.3519042880639138, 'R2': 0.7264616509182868}
+2025-02-08 23:35:12.369 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1181828816731771, 'MSE': 1.827645204085598, 'RMSE': 1.3519042880639138, 'R2': 0.7264616509182868}
+2025-02-08 23:35:12.369 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1181828816731771, 'MSE': 1.827645204085598, 'RMSE': 1.3519042880639138, 'R2': 0.7264616509182868}
+2025-02-08 23:35:12.369 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1181828816731771, 'MSE': 1.827645204085598, 'RMSE': 1.3519042880639138, 'R2': 0.7264616509182868}
+2025-02-08 23:35:12.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:35:12.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:35:12.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:35:12.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:35:12.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:36:10.485 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:36:10.485 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:36:10.485 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:36:10.485 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:36:10.485 | INFO     | lstm_model:train:48 - Training complete.
+2025-02-08 23:36:11.289 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1577501975342819, 'MSE': 1.824887306129731, 'RMSE': 1.3508838980940334, 'R2': 0.017927540227015704}
+2025-02-08 23:36:11.289 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1577501975342819, 'MSE': 1.824887306129731, 'RMSE': 1.3508838980940334, 'R2': 0.017927540227015704}
+2025-02-08 23:36:11.289 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1577501975342819, 'MSE': 1.824887306129731, 'RMSE': 1.3508838980940334, 'R2': 0.017927540227015704}
+2025-02-08 23:36:11.289 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1577501975342819, 'MSE': 1.824887306129731, 'RMSE': 1.3508838980940334, 'R2': 0.017927540227015704}
+2025-02-08 23:36:11.289 | INFO     | lstm_model:evaluate:61 - Evaluation metrics: {'MAE': 1.1577501975342819, 'MSE': 1.824887306129731, 'RMSE': 1.3508838980940334, 'R2': 0.017927540227015704}
+2025-02-08 23:49:27.765 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:27.765 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:34.080 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:34.080 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:34.752 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 1.4889018164740668, 'MSE': 3.5329075295584413, 'RMSE': 1.8796030244598037, 'R2': -0.011393064047961143}
+2025-02-08 23:49:34.752 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 1.4889018164740668, 'MSE': 3.5329075295584413, 'RMSE': 1.8796030244598037, 'R2': -0.011393064047961143}
+2025-02-08 23:49:35.365 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:35.365 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:35.365 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:46.953 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:46.953 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:46.953 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:48.050 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 6.8289448526170515, 'MSE': 62.20818032012453, 'RMSE': 7.887216259246638, 'R2': -1.6423988803800675}
+2025-02-08 23:49:48.050 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 6.8289448526170515, 'MSE': 62.20818032012453, 'RMSE': 7.887216259246638, 'R2': -1.6423988803800675}
+2025-02-08 23:49:48.050 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 6.8289448526170515, 'MSE': 62.20818032012453, 'RMSE': 7.887216259246638, 'R2': -1.6423988803800675}
+2025-02-08 23:49:48.125 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:48.125 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:48.125 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:48.125 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:58.688 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:58.688 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:58.688 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:58.688 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:49:59.360 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 1.377739503648546, 'MSE': 3.029425568878974, 'RMSE': 1.7405245097036048, 'R2': 0.5465946314894676}
+2025-02-08 23:49:59.360 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 1.377739503648546, 'MSE': 3.029425568878974, 'RMSE': 1.7405245097036048, 'R2': 0.5465946314894676}
+2025-02-08 23:49:59.360 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 1.377739503648546, 'MSE': 3.029425568878974, 'RMSE': 1.7405245097036048, 'R2': 0.5465946314894676}
+2025-02-08 23:49:59.360 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 1.377739503648546, 'MSE': 3.029425568878974, 'RMSE': 1.7405245097036048, 'R2': 0.5465946314894676}
+2025-02-08 23:49:59.441 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:59.441 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:59.441 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:59.441 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:49:59.441 | INFO     | lstm_model:build_model:37 - LSTM model built successfully.
+2025-02-08 23:50:14.124 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:50:14.124 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:50:14.124 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:50:14.124 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:50:14.124 | INFO     | lstm_model:train:62 - Training complete.
+2025-02-08 23:50:15.100 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 3.054577743657962, 'MSE': 10.574514470850279, 'RMSE': 3.251847854812749, 'R2': -4.690728967473336}
+2025-02-08 23:50:15.100 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 3.054577743657962, 'MSE': 10.574514470850279, 'RMSE': 3.251847854812749, 'R2': -4.690728967473336}
+2025-02-08 23:50:15.100 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 3.054577743657962, 'MSE': 10.574514470850279, 'RMSE': 3.251847854812749, 'R2': -4.690728967473336}
+2025-02-08 23:50:15.100 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 3.054577743657962, 'MSE': 10.574514470850279, 'RMSE': 3.251847854812749, 'R2': -4.690728967473336}
+2025-02-08 23:50:15.100 | INFO     | lstm_model:evaluate:79 - Evaluation metrics: {'MAE': 3.054577743657962, 'MSE': 10.574514470850279, 'RMSE': 3.251847854812749, 'R2': -4.690728967473336}
+2025-02-08 23:53:02.635 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:53:02.635 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:53:39.231 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:53:39.231 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:53:39.979 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.9429215643141005, 'MSE': 1.3323428197239788, 'RMSE': 1.1542715537186121, 'R2': 0.6185796312448306}
+2025-02-08 23:53:39.979 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.9429215643141005, 'MSE': 1.3323428197239788, 'RMSE': 1.1542715537186121, 'R2': 0.6185796312448306}
+2025-02-08 23:53:40.486 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:53:40.486 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:53:40.486 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:00.179 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:54:00.179 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:54:00.179 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:54:00.872 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 4.75307133992513, 'MSE': 31.555281111507146, 'RMSE': 5.617408754177244, 'R2': -0.3403642205553732}
+2025-02-08 23:54:00.872 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 4.75307133992513, 'MSE': 31.555281111507146, 'RMSE': 5.617408754177244, 'R2': -0.3403642205553732}
+2025-02-08 23:54:00.872 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 4.75307133992513, 'MSE': 31.555281111507146, 'RMSE': 5.617408754177244, 'R2': -0.3403642205553732}
+2025-02-08 23:54:00.934 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:00.934 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:00.934 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:00.934 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:49.691 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:54:49.691 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:54:49.691 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:54:49.691 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:54:50.409 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.1173674901326498, 'MSE': 1.8705844006539134, 'RMSE': 1.367693094467437, 'R2': 0.7200349073916192}
+2025-02-08 23:54:50.409 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.1173674901326498, 'MSE': 1.8705844006539134, 'RMSE': 1.367693094467437, 'R2': 0.7200349073916192}
+2025-02-08 23:54:50.409 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.1173674901326498, 'MSE': 1.8705844006539134, 'RMSE': 1.367693094467437, 'R2': 0.7200349073916192}
+2025-02-08 23:54:50.409 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.1173674901326498, 'MSE': 1.8705844006539134, 'RMSE': 1.367693094467437, 'R2': 0.7200349073916192}
+2025-02-08 23:54:50.473 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:50.473 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:50.473 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:50.473 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:54:50.473 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-08 23:55:30.505 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:55:30.505 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:55:30.505 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:55:30.505 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:55:30.505 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-08 23:55:31.273 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.19341192684413, 'MSE': 1.9860211060930923, 'RMSE': 1.409262610762484, 'R2': -0.06878756194457414}
+2025-02-08 23:55:31.273 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.19341192684413, 'MSE': 1.9860211060930923, 'RMSE': 1.409262610762484, 'R2': -0.06878756194457414}
+2025-02-08 23:55:31.273 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.19341192684413, 'MSE': 1.9860211060930923, 'RMSE': 1.409262610762484, 'R2': -0.06878756194457414}
+2025-02-08 23:55:31.273 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.19341192684413, 'MSE': 1.9860211060930923, 'RMSE': 1.409262610762484, 'R2': -0.06878756194457414}
+2025-02-08 23:55:31.273 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.19341192684413, 'MSE': 1.9860211060930923, 'RMSE': 1.409262610762484, 'R2': -0.06878756194457414}
+2025-02-09 00:10:49.599 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:10:49.599 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:11:07.944 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:11:07.944 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:11:08.798 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.0019714037577312, 'MSE': 1.6541910258545613, 'RMSE': 1.2861535778648525, 'R2': 0.5264414744724766}
+2025-02-09 00:11:08.798 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 1.0019714037577312, 'MSE': 1.6541910258545613, 'RMSE': 1.2861535778648525, 'R2': 0.5264414744724766}
+2025-02-09 00:11:10.244 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:11:10.244 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:11:10.244 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:11:33.532 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:11:33.532 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:11:33.532 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:11:34.380 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 4.468639405568441, 'MSE': 28.563421135899038, 'RMSE': 5.344475758753054, 'R2': -0.21328019457416292}
+2025-02-09 00:11:34.380 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 4.468639405568441, 'MSE': 28.563421135899038, 'RMSE': 5.344475758753054, 'R2': -0.21328019457416292}
+2025-02-09 00:11:34.380 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 4.468639405568441, 'MSE': 28.563421135899038, 'RMSE': 5.344475758753054, 'R2': -0.21328019457416292}
+2025-02-09 00:11:34.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:11:34.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:11:34.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:11:34.461 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:12:22.684 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:12:22.684 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:12:22.684 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:12:22.684 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:12:23.567 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.8741791195339627, 'MSE': 1.3487631765818353, 'RMSE': 1.1613626378448014, 'R2': 0.7981344217505559}
+2025-02-09 00:12:23.567 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.8741791195339627, 'MSE': 1.3487631765818353, 'RMSE': 1.1613626378448014, 'R2': 0.7981344217505559}
+2025-02-09 00:12:23.567 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.8741791195339627, 'MSE': 1.3487631765818353, 'RMSE': 1.1613626378448014, 'R2': 0.7981344217505559}
+2025-02-09 00:12:23.567 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.8741791195339627, 'MSE': 1.3487631765818353, 'RMSE': 1.1613626378448014, 'R2': 0.7981344217505559}
+2025-02-09 00:12:23.646 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:12:23.646 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:12:23.646 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:12:23.646 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:12:23.646 | INFO     | lstm_model:build_model:30 - LSTM model built successfully.
+2025-02-09 00:14:31.738 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:14:31.738 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:14:31.738 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:14:31.738 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:14:31.738 | INFO     | lstm_model:train:49 - Training complete.
+2025-02-09 00:14:32.839 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.9228663584178461, 'MSE': 1.1925413841017263, 'RMSE': 1.0920354317061907, 'R2': 0.35822766710700404}
+2025-02-09 00:14:32.839 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.9228663584178461, 'MSE': 1.1925413841017263, 'RMSE': 1.0920354317061907, 'R2': 0.35822766710700404}
+2025-02-09 00:14:32.839 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.9228663584178461, 'MSE': 1.1925413841017263, 'RMSE': 1.0920354317061907, 'R2': 0.35822766710700404}
+2025-02-09 00:14:32.839 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.9228663584178461, 'MSE': 1.1925413841017263, 'RMSE': 1.0920354317061907, 'R2': 0.35822766710700404}
+2025-02-09 00:14:32.839 | INFO     | lstm_model:evaluate:62 - Evaluation metrics: {'MAE': 0.9228663584178461, 'MSE': 1.1925413841017263, 'RMSE': 1.0920354317061907, 'R2': 0.35822766710700404}
+2025-02-09 00:19:17.689 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:19:17.689 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:20:07.069 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:20:07.069 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:20:07.900 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.4033882882859972, 'MSE': 3.1891534991578334, 'RMSE': 1.7858201194851158, 'R2': 0.08701546379340519}
+2025-02-09 00:20:07.900 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.4033882882859972, 'MSE': 3.1891534991578334, 'RMSE': 1.7858201194851158, 'R2': 0.08701546379340519}
+2025-02-09 00:20:08.881 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:20:08.881 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:20:08.881 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:20:28.007 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:20:28.007 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:20:28.007 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:20:28.791 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 4.05100367863973, 'MSE': 24.194195605935015, 'RMSE': 4.918759559679149, 'R2': -0.027689808623759804}
+2025-02-09 00:20:28.791 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 4.05100367863973, 'MSE': 24.194195605935015, 'RMSE': 4.918759559679149, 'R2': -0.027689808623759804}
+2025-02-09 00:20:28.791 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 4.05100367863973, 'MSE': 24.194195605935015, 'RMSE': 4.918759559679149, 'R2': -0.027689808623759804}
+2025-02-09 00:20:28.886 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:20:28.886 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:20:28.886 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:20:28.886 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:21:18.740 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:21:18.740 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:21:18.740 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:21:18.740 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:21:19.497 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.060158093770345, 'MSE': 1.7087163834172114, 'RMSE': 1.3071787878546728, 'R2': 0.7442613945258039}
+2025-02-09 00:21:19.497 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.060158093770345, 'MSE': 1.7087163834172114, 'RMSE': 1.3071787878546728, 'R2': 0.7442613945258039}
+2025-02-09 00:21:19.497 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.060158093770345, 'MSE': 1.7087163834172114, 'RMSE': 1.3071787878546728, 'R2': 0.7442613945258039}
+2025-02-09 00:21:19.497 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.060158093770345, 'MSE': 1.7087163834172114, 'RMSE': 1.3071787878546728, 'R2': 0.7442613945258039}
+2025-02-09 00:21:19.563 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:21:19.563 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:21:19.563 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:21:19.563 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:21:19.563 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:22:19.884 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:22:19.884 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:22:19.884 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:22:19.884 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:22:19.884 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:22:20.669 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5347422436191447, 'MSE': 0.4604116425723066, 'RMSE': 0.6785363973821202, 'R2': 0.7522271077648}
+2025-02-09 00:22:20.669 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5347422436191447, 'MSE': 0.4604116425723066, 'RMSE': 0.6785363973821202, 'R2': 0.7522271077648}
+2025-02-09 00:22:20.669 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5347422436191447, 'MSE': 0.4604116425723066, 'RMSE': 0.6785363973821202, 'R2': 0.7522271077648}
+2025-02-09 00:22:20.669 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5347422436191447, 'MSE': 0.4604116425723066, 'RMSE': 0.6785363973821202, 'R2': 0.7522271077648}
+2025-02-09 00:22:20.669 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5347422436191447, 'MSE': 0.4604116425723066, 'RMSE': 0.6785363973821202, 'R2': 0.7522271077648}
+2025-02-09 00:30:35.764 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:30:35.764 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:30:51.194 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:30:51.194 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:30:51.909 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.972197585635715, 'MSE': 1.3474870568070805, 'RMSE': 1.1608131015831449, 'R2': 0.6142442417028349}
+2025-02-09 00:30:51.909 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.972197585635715, 'MSE': 1.3474870568070805, 'RMSE': 1.1608131015831449, 'R2': 0.6142442417028349}
+2025-02-09 00:30:52.466 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:30:52.466 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:30:52.466 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:31:12.009 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:31:12.009 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:31:12.009 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:31:12.711 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 4.789670244852702, 'MSE': 32.23780877220294, 'RMSE': 5.6778348665845275, 'R2': -0.36935566687450616}
+2025-02-09 00:31:12.711 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 4.789670244852702, 'MSE': 32.23780877220294, 'RMSE': 5.6778348665845275, 'R2': -0.36935566687450616}
+2025-02-09 00:31:12.711 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 4.789670244852702, 'MSE': 32.23780877220294, 'RMSE': 5.6778348665845275, 'R2': -0.36935566687450616}
+2025-02-09 00:31:12.776 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:31:12.776 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:31:12.776 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:31:12.776 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:32:13.764 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:32:13.764 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:32:13.764 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:32:13.764 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:32:15.493 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.0458064821031359, 'MSE': 1.6781896272877121, 'RMSE': 1.295449585004261, 'R2': 0.7488300905307081}
+2025-02-09 00:32:15.493 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.0458064821031359, 'MSE': 1.6781896272877121, 'RMSE': 1.295449585004261, 'R2': 0.7488300905307081}
+2025-02-09 00:32:15.493 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.0458064821031359, 'MSE': 1.6781896272877121, 'RMSE': 1.295449585004261, 'R2': 0.7488300905307081}
+2025-02-09 00:32:15.493 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.0458064821031359, 'MSE': 1.6781896272877121, 'RMSE': 1.295449585004261, 'R2': 0.7488300905307081}
+2025-02-09 00:32:15.495 | INFO     | lstm_model:time_series_cv_evaluation:92 - imeSeries CV Average Metrics:{'MAE': 2.269224770863851, 'MSE': 11.754495152099246, 'RMSE': 2.711365851057311, 'R2': 0.33123955511967895}
+2025-02-09 00:32:15.495 | INFO     | lstm_model:time_series_cv_evaluation:92 - imeSeries CV Average Metrics:{'MAE': 2.269224770863851, 'MSE': 11.754495152099246, 'RMSE': 2.711365851057311, 'R2': 0.33123955511967895}
+2025-02-09 00:32:15.495 | INFO     | lstm_model:time_series_cv_evaluation:92 - imeSeries CV Average Metrics:{'MAE': 2.269224770863851, 'MSE': 11.754495152099246, 'RMSE': 2.711365851057311, 'R2': 0.33123955511967895}
+2025-02-09 00:32:15.495 | INFO     | lstm_model:time_series_cv_evaluation:92 - imeSeries CV Average Metrics:{'MAE': 2.269224770863851, 'MSE': 11.754495152099246, 'RMSE': 2.711365851057311, 'R2': 0.33123955511967895}
+2025-02-09 00:33:42.172 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:33:42.172 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:34:33.207 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:34:33.207 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:34:34.017 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.0655813641018337, 'MSE': 1.582199291794273, 'RMSE': 1.257855036080976, 'R2': 0.5470511144913337}
+2025-02-09 00:34:34.017 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 1.0655813641018337, 'MSE': 1.582199291794273, 'RMSE': 1.257855036080976, 'R2': 0.5470511144913337}
+2025-02-09 00:34:34.947 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:34:34.947 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:34:34.947 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:34:55.713 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:34:55.713 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:34:55.713 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:34:56.408 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 3.4128684785630967, 'MSE': 16.113969796493784, 'RMSE': 4.014220945151598, 'R2': 0.3155315448779695}
+2025-02-09 00:34:56.408 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 3.4128684785630967, 'MSE': 16.113969796493784, 'RMSE': 4.014220945151598, 'R2': 0.3155315448779695}
+2025-02-09 00:34:56.408 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 3.4128684785630967, 'MSE': 16.113969796493784, 'RMSE': 4.014220945151598, 'R2': 0.3155315448779695}
+2025-02-09 00:34:56.466 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:34:56.466 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:34:56.466 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:34:56.466 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:35:25.674 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:35:25.674 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:35:25.674 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:35:25.674 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:35:26.673 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.9600087059868707, 'MSE': 1.5098132100478525, 'RMSE': 1.2287445666402161, 'R2': 0.7740305625391892}
+2025-02-09 00:35:26.675 | INFO     | lstm_model:time_series_cv_evaluation:92 - imeSeries CV Average Metrics:{'MAE': 1.8128195162172671, 'MSE': 6.401994099445303, 'RMSE': 2.166940182624263, 'R2': 0.5455377406361642}
+2025-02-09 00:35:26.673 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.9600087059868707, 'MSE': 1.5098132100478525, 'RMSE': 1.2287445666402161, 'R2': 0.7740305625391892}
+2025-02-09 00:35:26.673 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.9600087059868707, 'MSE': 1.5098132100478525, 'RMSE': 1.2287445666402161, 'R2': 0.7740305625391892}
+2025-02-09 00:35:26.675 | INFO     | lstm_model:time_series_cv_evaluation:92 - imeSeries CV Average Metrics:{'MAE': 1.8128195162172671, 'MSE': 6.401994099445303, 'RMSE': 2.166940182624263, 'R2': 0.5455377406361642}
+2025-02-09 00:35:26.673 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.9600087059868707, 'MSE': 1.5098132100478525, 'RMSE': 1.2287445666402161, 'R2': 0.7740305625391892}
+2025-02-09 00:35:26.675 | INFO     | lstm_model:time_series_cv_evaluation:92 - imeSeries CV Average Metrics:{'MAE': 1.8128195162172671, 'MSE': 6.401994099445303, 'RMSE': 2.166940182624263, 'R2': 0.5455377406361642}
+2025-02-09 00:35:26.675 | INFO     | lstm_model:time_series_cv_evaluation:92 - imeSeries CV Average Metrics:{'MAE': 1.8128195162172671, 'MSE': 6.401994099445303, 'RMSE': 2.166940182624263, 'R2': 0.5455377406361642}
+2025-02-09 00:35:26.757 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:35:26.757 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:35:26.757 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:35:26.757 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:35:26.757 | INFO     | lstm_model:build_model:33 - LSTM model built successfully.
+2025-02-09 00:36:33.001 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:36:33.001 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:36:33.001 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:36:33.001 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:36:33.001 | INFO     | lstm_model:train:52 - Training complete.
+2025-02-09 00:36:33.849 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5854920343375106, 'MSE': 0.560755287729198, 'RMSE': 0.7488359551525274, 'R2': 0.6982266904924785}
+2025-02-09 00:36:33.849 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5854920343375106, 'MSE': 0.560755287729198, 'RMSE': 0.7488359551525274, 'R2': 0.6982266904924785}
+2025-02-09 00:36:33.849 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5854920343375106, 'MSE': 0.560755287729198, 'RMSE': 0.7488359551525274, 'R2': 0.6982266904924785}
+2025-02-09 00:36:33.849 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5854920343375106, 'MSE': 0.560755287729198, 'RMSE': 0.7488359551525274, 'R2': 0.6982266904924785}
+2025-02-09 00:36:33.849 | INFO     | lstm_model:evaluate:65 - Evaluation metrics: {'MAE': 0.5854920343375106, 'MSE': 0.560755287729198, 'RMSE': 0.7488359551525274, 'R2': 0.6982266904924785}

@@ -1,11 +1,26 @@
+import os
 import yaml
 import matplotlib.pyplot as plt
+from typing import Tuple, Any, Dict
 
 from data_loader import DataLoader
 from feature_engineer import FeatureEngineer
 from lstm_model import LSTMModel
 
-def main(config_path="../config.yaml"):
+def main(config_path: str = None) -> Tuple[LSTMModel, Dict[str, Any], Dict[str, float]]:
+    """
+    Main function to load data, engineer features, train, and evaluate the LSTM model.
+    
+    Returns:
+        - final_model: The trained LSTMModel instance.
+        - cv_metrics: Cross-validation metrics.
+        - test_metrics: Evaluation metrics on the test set.
+    """
+    # Build an absolute path if none is provided
+    if config_path is None:
+        base_path = os.path.dirname(os.path.abspath(__file__))
+        config_path = os.path.join(base_path, "..", "config.yaml")
+    
     with open(config_path, "r") as f:
         config = yaml.safe_load(f)
     
@@ -24,11 +39,11 @@ def main(config_path="../config.yaml"):
     # Perform RFE on training features
     X_train_df = train_features.drop("target", axis=1)
     y_train = train_features["target"]
-    essential_features = ["Close_lag_1", "eps", "dividend_yield", "rsi", "macd", "vol_mom"]
-    selected_feats, rankings = feature_engineer.perform_rfe(X_train_df, y_train, essential_features, n_features_to_select=12)
-    print("Selected features after RFE:", selected_feats)
+    selected_feats, rankings = feature_engineer.perform_rfe(
+        X_train_df, y_train, n_features_to_select=12
+    )
     
-    # Keep only the selected features and target for all splits
+    # Retain only selected features and target in all splits
     cols_to_keep = selected_feats + ["target"]
     train_features = train_features[cols_to_keep].copy()
     val_features = val_features[cols_to_keep].copy()
@@ -41,22 +56,21 @@ def main(config_path="../config.yaml"):
     
     input_shape = (config["data"]["sequence_length"], X_train.shape[2])
     
-    # TimeSeries CV evaluation (n_splits=3)
+    # Time series cross-validation evaluation
     model_instance = LSTMModel(config)
-    cv_metrics = model_instance.time_series_cv_evaluation(X_train, y_train, feature_engineer.target_scaler, n_splits=3)
-    print("CV Metrics:", cv_metrics)
+    cv_metrics = model_instance.time_series_cv_evaluation(
+        X_train, y_train, feature_engineer.target_scaler, n_splits=3
+    )
     
     # Build, train, and evaluate final model on test set
     final_model = LSTMModel(config)
     final_model.build_model(input_shape)
     final_model.train((X_train, y_train), (X_val, y_val))
-    test_metrics = final_model.evaluate(X_test, y_test, target_scaler=feature_engineer.target_scaler)
+    test_metrics = final_model.evaluate(
+        X_test, y_test, target_scaler=feature_engineer.target_scaler
+    )
     
-    print("Final Test Metrics:")
-    for metric, value in test_metrics.items():
-        print(f"{metric}: {value:.4f}")
-    
-    # Save predicted vs. actual plot in results folder
+    # Save predicted vs. actual plot
     preds = final_model.model.predict(X_test, verbose=0)
     y_pred = feature_engineer.target_scaler.inverse_transform(preds.reshape(-1, 1))
     y_true = feature_engineer.target_scaler.inverse_transform(y_test.reshape(-1, 1))
@@ -71,6 +85,6 @@ def main(config_path="../config.yaml"):
     plt.close()
     
     return final_model, cv_metrics, test_metrics
-    
+
 if __name__ == "__main__":
     main()

@@ -15,12 +15,20 @@ class LSTMModel:
     LSTM model for time series forecasting.
     """
     def __init__(self, config: dict):
+        """
+        Initializes the LSTM model with the given configuration.
+        """
         self.config = config
         self.model = None
         logger.add("logs/model.log", rotation="500 MB", enqueue=True)
         self.logger = logger
 
     def build_model(self, input_shape: tuple) -> Model:
+        """
+        Builds and compiles the LSTM model.
+        
+        Returns compiled LSTM model.
+        """
         inputs = Input(shape=input_shape)
         x = LSTM(self.config["model"]["lstm"]["units"][0], return_sequences=False, 
                  kernel_initializer='glorot_uniform')(inputs)
@@ -34,6 +42,11 @@ class LSTMModel:
         return self.model
 
     def train(self, train_data: tuple, val_data: tuple = None) -> dict:
+        """
+        Trains the LSTM model with the given training and validation data.
+        
+        Returns training history with loss and metric values.
+        """
         callbacks = [
             EarlyStopping(monitor="val_loss", 
                           patience=self.config["model"]["training"]["early_stopping"]["patience"],
@@ -53,6 +66,11 @@ class LSTMModel:
         return history.history
 
     def evaluate(self, X_test: np.ndarray, y_test: np.ndarray, target_scaler) -> dict:
+        """
+        Evaluates the trained model on the test set.
+
+        Returns evaluation metrics including MAE, MSE, RMSE, and R².
+        """
         preds = self.model.predict(X_test, verbose=0)
         y_pred = target_scaler.inverse_transform(preds.reshape(-1, 1))
         y_true = target_scaler.inverse_transform(y_test.reshape(-1, 1))
@@ -66,6 +84,11 @@ class LSTMModel:
         return metrics
 
     def time_series_cv_evaluation(self, X, y, target_scaler, n_splits=3):
+        """
+        Performs time-series cross-validation to assess model performance.
+        
+        Returns average evaluation metrics across all cross-validation folds.
+        """
         tscv = TimeSeriesSplit(n_splits=n_splits)
         metrics_list = []
         fold = 1
@@ -89,5 +112,5 @@ class LSTMModel:
                 plt.close()
             fold += 1
         avg_metrics = {key: np.mean([m[key] for m in metrics_list]) for key in metrics_list[0]}
-        self.logger.info(f"imeSeries CV Average Metrics:{avg_metrics}")
+        self.logger.info(f"TimeSeries CV Average Metrics: {avg_metrics}")
         return avg_metrics

@@ -12,8 +12,8 @@
 
 Clone the repository
 ```bash
-git clone https://github.com/mertcan79/dataguess-task.git
-cd dataguess-task
+git clone https://github.com/mertcan79/stock_predictor.git
+cd stock_predictor
 ```
 Create and activate a virtual environment
 ```bash
@@ -38,7 +38,7 @@ python src/main.py
 
 Or use Docker
 ```bash
-docker build -t dataguess-task .
+docker build -t stock_predictor .
 
 docker run --rm dataguess-task
 ```
